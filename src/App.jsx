@@ -43,11 +43,7 @@ const App = () => {
         Мереживна накидка
       </h2>
       <div className="w-full">
-        <img
-          className="w-full"
-          src="../public/250395447.webp"
-          alt="мереживна накидка"
-        />
+        <img className="w-full" src="/250395447.webp" alt="мереживна накидка" />
       </div>
       <ul className="flex align-middle flex-col text-left">
         <li className="py-4 px-8  border-b border-gray-400">
